@@ -1,0 +1,10 @@
+package comcraft.java_common_2var;
+
+public class continueStatement {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

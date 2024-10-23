@@ -1,0 +1,25 @@
+package comcraft.java_common_2var;
+
+public class ifstatement {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		
+		
+		int marks=45;
+		if(marks > 65) {
+			System.out.println("first division");
+		}
+	
+	else
+	{	
+	
+System.out.print("second division");
+}
+	
+		String pass ="pass";
+				if(pass=="pass");
+					System.out.println("redirect to dashboard");
+	}
+}
